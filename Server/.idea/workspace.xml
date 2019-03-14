@@ -2,18 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50fb41c4-78a2-4b22-9289-0081608f65ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Client/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Client/src/com/krakn/Packet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/krakn/FileInputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/krakn/Packet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/com/krakn/Client$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/com/krakn/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/com/krakn/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/com/krakn/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/out/production/Client/com/krakn/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/out/production/Client/com/krakn/Packet.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Client/src/com/krakn/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/com/krakn/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/com/krakn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/com/krakn/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/com/krakn/Packet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/FileInputHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/FileReceive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/FileSend.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/com/krakn/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/Packet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/Server$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Server/com/krakn/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/com/krakn/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/krakn/FileInputHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/krakn/FileReceive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/krakn/FileSend.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/krakn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/krakn/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/krakn/Packet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/krakn/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/krakn/Server.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,43 +38,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/krakn/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/krakn/Server.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="108" column="69" selection-start-line="108" selection-start-column="69" selection-end-line="108" selection-end-column="69" />
-              <folding>
-                <element signature="e#168#170#0" />
-                <element signature="e#3382#3383#0" expanded="true" />
-                <element signature="e#3470#3471#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/krakn/FileInputHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="180">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/krakn/Packet.java">
+        <entry file="file://$PROJECT_DIR$/src/com/krakn/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="252">
+              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,10 +73,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/krakn/Client.java" />
         <option value="$PROJECT_DIR$/src/com/krakn/DataPacket.java" />
-        <option value="$PROJECT_DIR$/src/com/krakn/Main.java" />
         <option value="$PROJECT_DIR$/src/com/krakn/Packet.java" />
-        <option value="$PROJECT_DIR$/src/com/krakn/Server.java" />
         <option value="$PROJECT_DIR$/src/com/krakn/FileInputHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/krakn/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/krakn/Server.java" />
       </list>
     </option>
   </component>
@@ -133,7 +120,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552242943531" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552580930582" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -182,12 +169,14 @@
       <workItem from="1552051812205" duration="17061000" />
       <workItem from="1552165464791" duration="6429000" />
       <workItem from="1552239263942" duration="3177000" />
-      <workItem from="1552255190537" duration="599000" />
+      <workItem from="1552255190537" duration="8248000" />
+      <workItem from="1552579719000" duration="1101000" />
+      <workItem from="1552596284586" duration="710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27266000" />
+    <option name="totallyTimeSpent" value="36726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -238,20 +227,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/krakn/FileReceive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/krakn/FileSend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/krakn/FileReceive.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/krakn/FileSend.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -259,39 +236,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/krakn/FileInputHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/krakn/Packet.java" />
     <entry file="file://$PROJECT_DIR$/src/com/krakn/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/krakn/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="108" column="69" selection-start-line="108" selection-start-column="69" selection-end-line="108" selection-end-column="69" />
-          <folding>
-            <element signature="e#168#170#0" />
-            <element signature="e#3382#3383#0" expanded="true" />
-            <element signature="e#3470#3471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/krakn/FileInputHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="252">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/krakn/Packet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
